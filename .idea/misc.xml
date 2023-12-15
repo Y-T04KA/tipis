@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Remote Python 3.10.12 (sftp://yt04ka@100.102.145.48:22/home/yt04ka/.virtualenvs/tipis/bin/python)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10.12 WSL (Ubuntu): (/root/.virtualenvs/tipis/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (tipis)" project-jdk-type="Python SDK" />
 </project>
